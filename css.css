@@ -1,6 +1,6 @@
 body {
     font-family: times new roman, serif;
-    background-color: #e2dd9c;
+    background-color: #9ca9e2;
     text-align: center;
     margin: 0;
     padding: 20px;
@@ -24,7 +24,7 @@ h1 {
     min-height: 420px;
     padding: 30px;
     box-sizing: border-box;
-    background-color: #d2abff;
+    background-color: #abf7ff;
     border-radius: 18px;
     flex: 1;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
